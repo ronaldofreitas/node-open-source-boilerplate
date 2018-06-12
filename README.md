@@ -12,6 +12,13 @@ Minimal boilerplate project to open source npm packages.
 * `git clone git@github.com:rwieruch/node-open-source-boilerplate.git`
 * `cd node-open-source-boilerplate`
 * `npm install`
-* `npm publish`
 
 Adjust your Babel presets in *package.json* if you like to add or remove future JavaScript ES features.
+
+## Publish
+
+* adjust `name` to match `[your_open_source project_name]` in *package.json*
+* `npm run prepublish`
+* `npm publish`
+* `cd example`
+* `npm install [your_open_source project_name]`

@@ -1,0 +1,16 @@
+{
+  "name": "node-open-source-boilerplate-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "“Robin <hello@rwieruch.com”> (https://www.robinwieruch.de)",
+  "license": "MIT",
+  "dependencies": {
+    "node-open-source-boilerplate": "^0.1.0"
+  }
+}
