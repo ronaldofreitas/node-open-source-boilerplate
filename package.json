@@ -6,11 +6,11 @@
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1"
   },
   "scripts": {
-    "compile": "babel --presets es2015,stage-2 -d lib/ src/",
+    "compile": "babel -d lib/ src/",
     "prepublish": "npm run compile"
   },
   "repository": {
@@ -18,7 +18,7 @@
     "url": "git+https://github.com/rwieruch/node-open-source-boilerplate.git"
   },
   "keywords": [],
-  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
+  "author": "“Robin <hello@rwieruch.net”> (https://www.robinwieruch.de)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rwieruch/node-open-source-boilerplate/issues"
