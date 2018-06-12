@@ -1,7 +1,7 @@
 {
   "name": "node-open-source-boilerplate",
   "version": "0.1.0",
-  "description": "Description.",
+  "description": "Open source boilerplate project for Node projects.",
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {
@@ -18,7 +18,7 @@
     "url": "git+https://github.com/rwieruch/node-open-source-boilerplate.git"
   },
   "keywords": [],
-  "author": "“Robin <hello@rwieruch.net”> (https://www.robinwieruch.de)",
+  "author": "“Robin <hello@rwieruch.com”> (https://www.robinwieruch.de)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rwieruch/node-open-source-boilerplate/issues"
