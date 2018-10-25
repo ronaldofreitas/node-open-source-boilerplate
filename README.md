@@ -1,5 +1,7 @@
 # Simple Node Open Source Boilerplate Project
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/node-open-source-boilerplate.svg)](https://greenkeeper.io/)
+
 Minimal boilerplate project to open source npm packages.
 
 ## Requirements
